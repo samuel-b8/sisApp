@@ -5,7 +5,8 @@ plugins {
 android {
     compileSdkVersion 30
     buildToolsVersion '32.0.0'
-
+    namespace "com.cathythome.sis"
+    
     defaultConfig {
         applicationId "com.cathythome.sis"
         minSdkVersion 22
